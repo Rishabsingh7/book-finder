@@ -37,7 +37,7 @@ https://covers.openlibrary.org/b/id/{cover_i}-M.jpg
 **Book Page:**  
 https://openlibrary.org{key}
 
-## 🌐 Live Demo
+## Live Demo
 [Click here to view the deployed app](https://book-finder-dusky-zeta.vercel.app/)
 
 ## Author
